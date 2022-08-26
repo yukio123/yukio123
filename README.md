@@ -1,4 +1,14 @@
-"# Hi, I'm Yukio Saito (:tea::computer::build::heart)
+<p align="right">
+<a href="https://twitter.com/yukio_saitoh" target="blank">
+    <img src="https://img.shields.io/twitter/follow/yukio_saitoh?logo=twitter&style=flat-square" alt="yukio_saitoh" />
+</a>
+</P>
+
+<div align="center">
+"# Hi, I'm Yukio Saito (:tea::computer::icecream)
+</div>
+
+## > whoami
 
 I'm a Multi Cloud pre-sales Engineer and Certified Social Worker from Japan.
 
