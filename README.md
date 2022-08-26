@@ -1,4 +1,4 @@
-"# Hi, I'm Yukio Saito (:tea::computer::buid::heart)
+"# Hi, I'm Yukio Saito (:tea::computer::build::heart)
 
 I'm a Multi Cloud pre-sales Engineer and Certified Social Worker from Japan.
 
