@@ -2,9 +2,10 @@
 
 I'm a Multi Cloud pre-sales Engineer and Certified Social Worker from Japan.
 
+Certified skills <a href="https://www.credly.com/users/yukio-saito/badges?sort=-state_updated_at&page=1">Credly</a><br />
+
 ---
 
-Certified skills <a href="https://www.credly.com/users/yukio-saito/badges?sort=-state_updated_at&page=1">Credly</a><br />
 
 
 みなさん、こんにちは！斉藤之雄です。　お茶とコンピュータが好きです。
