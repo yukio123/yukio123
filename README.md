@@ -5,7 +5,7 @@
 </P>
 
 <div align="center">
-"# Hi, I'm Yukio Saito (:tea::computer::icecream)
+"# Hi, I'm Yukio Saito (:tea::computer::icecream::cat)
 </div>
 
 ## > whoami
@@ -19,6 +19,6 @@ Certified skills <a href="https://www.credly.com/users/yukio-saito/badges?sort=-
 
 
 みなさん、こんにちは！斉藤之雄です。<br />
-猫とお茶とコンピュータが好きです。<br />
+猫とお茶とアイスクリームとコンピュータが好きです。<br />
 マルチクラウド プリセールス エンジニアで社会福祉士です。<br /><br />
 よろしくお願いいたします。^^
