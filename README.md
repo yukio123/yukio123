@@ -10,7 +10,7 @@
 
 ## > whoami
 
-I'm a Multi Cloud pre-sales Engineer and Certified Social Worker from Japan.
+I'm a Senior Pre-Sale Consultant, Data and AI and Certified Social Worker Japan.
 
 Certified skills <a href="https://www.credly.com/users/yukio-saito/badges?sort=-state_updated_at&page=1">Credly</a><br />
 
@@ -20,5 +20,5 @@ Certified skills <a href="https://www.credly.com/users/yukio-saito/badges?sort=-
 
 みなさん、こんにちは！斉藤之雄です。<br />
 猫とお茶とアイスクリームとコンピュータが好きです。<br />
-マルチクラウド プリセールス エンジニアで社会福祉士です。<br /><br />
+シニア プリセールスコンサルタント（Data と AI) で社会福祉士です。<br /><br />
 よろしくお願いいたします。^^
